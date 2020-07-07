@@ -3,6 +3,9 @@
 
 ![menu](https://user-images.githubusercontent.com/66492054/86806288-c9fbdb00-c089-11ea-897b-6a1c5a6b5ca9.jpg)
 
+## Requis
+Le projet a été réalisé sous NetBeans.
+
 
 
 Canvas.java est le fichier qui contient le code pour les actions au claviers & souris.
